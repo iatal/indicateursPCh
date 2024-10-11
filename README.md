@@ -3,9 +3,13 @@ Projet __Comment les enseignants évaluent-ils leurs pratiques ? Analyse des ind
 
 **Auteurs**: Ignacio Atal, Maëlle Crosse, Elsa Chusseau, Marine Lanteri, Cyril Drouot
 
-A des fins de reproductibilité, et en vue de promouvoir la science ouverte, vous trouverez dans ce repo l'ensemble des données et des codes produits dans le cadre du projet de recherche.
+A des fins de reproductibilité, et en vue de promouvoir la science ouverte, vous trouverez dans ce repo l'ensemble des éléments nécessaires à la reproduction des résultats présentés dans le manuscrit.
+- L'ensemble des données (`Indicateurs_donnees_propres.csv`, `Defis_donnees_propres.csv` et `Coauteurs_donnes_propres.csv`)
+- Le code R sous forme de jupyter notebook (`Indicateurs_code_apartager.ipynb`)
 
-Pour toute question: ignacioatalch@gmail.com
+Les données source utilisées pour mener ce projet sont accessibles dans la plateforme Profs-Chercheurs: [plateforme.profschercheurs.org](plateforme.profschercheurs.org])
+
+Pour toute question n'hésitez pas à nous contacter ici: [ignacioatalch@gmail.com](mailto:ignacioatalch@gmail.com)
 
 ### Indicateurs_donnees_propres.csv
 Une ligne par indicateur:
